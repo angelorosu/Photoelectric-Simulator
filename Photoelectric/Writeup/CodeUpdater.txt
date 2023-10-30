@@ -1,0 +1,7 @@
+﻿Trying to get the total kinetic energy i have experienced problems with not checking to what changedPhotonFrequency and when it
+changhes so when i try get the value its treating changedPhotonFrequency as a zero.(function is in Maths class and i'm trying to 
+change the label of the kinetic energy in mainwidow.cs)
+
+
+In teh RGBConverter function convert the rgb values to type byte and return them as byte array to
+be used to convert wavelength to rgb values in  mainwidow.cs
